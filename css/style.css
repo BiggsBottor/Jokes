@@ -1,0 +1,14 @@
+header {
+    background-color: goldenrod !important;
+}
+
+.separator {
+    height: .5em;
+    background-color: #ed1;
+}
+
+.joke {
+    padding: 4em;
+    background-color: moccasin;
+    border-top: 2px solid yellow;
+}
